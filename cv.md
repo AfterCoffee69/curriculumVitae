@@ -27,7 +27,7 @@ I'm so ambitious and responsible about my projects.
  - Ukranian
  - **English (B2)**
 
-#Work Experience
+# Work Experience
 >I tried my hand at different areas of development such as<br>
 web development, desktop development and gamedev.<br>
 Like everyone, I face difficulties in programming,<br>
