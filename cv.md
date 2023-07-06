@@ -25,7 +25,13 @@ I'm so ambitious and responsible about my projects.
  - Russian
  - Belarussian
  - Ukranian
- - **English (B2)** 
+ - **English (B2)**
+
+#Work Experience
+>I tried my hand at different areas of development such as<br>
+web development, desktop development and gamedev.<br>
+Like everyone, I face difficulties in programming,<br>
+but if I am passionate about a project, I dedicate all of myself time to it.<br>
 
 ## My projects
  - Desktop Calculator (C#/WindowsForms)
